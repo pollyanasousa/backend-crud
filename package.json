@@ -1,0 +1,21 @@
+{
+  "name": "lista-telefonica",
+  "version": "1.0.0",
+  "description": "Descrição Teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
